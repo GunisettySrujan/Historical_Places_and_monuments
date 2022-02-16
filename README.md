@@ -37,10 +37,6 @@ http://localhost:8000/
 
 ## Front-End
 
-Login: 
-<h1 align="center">
-    <img alt="java" title="login" src="https://github.com/carlosjunior1983/springboot-registration-login/blob/main/imgs/Login.PNG"  /><br>
-</h1>
 
 New Register: 
 <h1 align="center">
